@@ -1,6 +1,7 @@
 # inicio del archivo
 # Autor: Erne
 # Cuvalles
+# club algoritmia
 
 import math
 
